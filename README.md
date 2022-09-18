@@ -1,5 +1,7 @@
-#Trivia Geología ⛏️
+#Trivia Geología 
 
-#Preguntas variada
+[Demo](https://replit.com/@CHRISTIAN-PATR3/Test-sobre-Geologia)
+
+#Preguntas variadas
 
 #Minerales
